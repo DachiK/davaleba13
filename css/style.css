@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed&display=swap');
+.section1{
+    max-width: 1370;
+    width: 100%;
+    margin: 0 auto;
+    padding: 70px 50px 30px 50px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-content: center; 
+}
+.minimo{
+    font-size: 40px;
+    font-family: 'Inconsolata', monospace;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar li{
+    margin: 0 70px 0 0;
+    font-size: 14px;
+}
+.navbar li a{
+    color: #626262;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.navbar ul :hover{
+    opacity: 0.5;
+    transition: 0.5s;
+    font-size: 18px;
+}
+.section2{
+    max-width: 1370;
+    width: 100%;
+    margin: 0 auto;
+}
+.girls{
+    max-width: 1370px;
+    width: 100%;
+    margin: 0 auto;
+}
+.section3{
+    max-width: 1370;
+    width: 100%;
+    margin: 0 auto;
+}
+.title{
+    color: #b4ad9e;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 14px;
+    margin: 30px;
+}
+.short-text{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 30px;
+    color: #626262;
+    margin: 30px;
+}
+.long-text{
+    font-size: 14px;
+    width: 904px;
+    color: #626262;
+    margin: 30px;
+}
+.comment a{
+    color: #b4ad9e;
+    font-size:18px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin: 60px;
+}
+.section4{
+    max-width: 1370;
+    width: 100%;
+    margin: 0 auto;
+}
+.girl{
+    margin: 30px;
+}
+.long-text1{
+    font-size: 14px;
+    width: 904px;
+    color: #626262;
+    margin: 30px;
+    width: 430px;
+}
