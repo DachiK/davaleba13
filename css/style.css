@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed&display=swap');
 .section1{
-    max-width: 1370;
+    max-width: 1370px;
     width: 100%;
     margin: 0 auto;
     padding: 70px 50px 30px 50px;
@@ -32,7 +32,7 @@
     font-size: 18px;
 }
 .section2{
-    max-width: 1370;
+    max-width: 1370px;
     width: 100%;
     margin: 0 auto;
 }
@@ -42,7 +42,7 @@
     margin: 0 auto;
 }
 .section3{
-    max-width: 1370;
+    max-width: 1370px;
     width: 100%;
     margin: 0 auto;
 }
@@ -59,7 +59,7 @@
     margin: 30px;
 }
 .long-text{
-    font-size: 14px;
+    font-size: 18px;
     width: 904px;
     color: #626262;
     margin: 30px;
@@ -69,19 +69,90 @@
     font-size:18px;
     font-family: 'Barlow Semi Condensed', sans-serif;
     margin: 60px;
+    display: block;
 }
 .section4{
-    max-width: 1370;
+    max-width: 1370px;
     width: 100%;
     margin: 0 auto;
 }
 .girl{
-    margin: 30px;
+    margin: 30px 0 0 30px;
+}
+.coffee{
+    margin: 30px 0 0 0;
 }
 .long-text1{
-    font-size: 14px;
+    font-size: 18px;
     width: 904px;
     color: #626262;
     margin: 30px;
     width: 430px;
 }
+.title1{
+    color: #b4ad9e;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 14px;
+    margin: 30px;
+}
+.section5{
+    max-width: 1370px;
+    width: 100%;
+    margin:135px auto;
+    
+}
+.bridge{
+    margin: 30px 0 0 30px;
+}
+.boy{
+    margin: 30px 0 0 0;
+}
+.section6{
+    max-width: 1370px;
+    height: 290px;
+    width: 100%;
+    margin: 0 auto;
+    background: #f2f2f2;
+}
+.email-address label{
+    color: #f2f2f2;
+    flex-direction: column;
+}
+.email{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.section7{
+    max-width: 1370px;
+    width: 100%;
+    margin: 0 auto;
+}
+.nature{
+    margin: 30px 0 0 30px;
+}
+.road{
+    margin: 30px 0 0 0;
+}
+.section8{
+    max-width: 1370px;
+    width: 100%;
+    margin: 100px auto;
+}
+.more{
+    font-display:'Barlow Semi Condensed', sans-serif;
+    font-size: 30px;
+    border: groove;
+    text-align: center;
+    padding: 15px;
+}
+.more a{
+    color:#626262
+}
+.more :hover{
+    font-size: 35px;
+    opacity: 0.6;
+    transition: 0.7s;
+}
+
+    
